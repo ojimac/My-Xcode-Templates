@@ -3,5 +3,8 @@
 ## Usage
 
 ```shell
-$ cp -r MyTemplate /Library/Developer/Xcode/Templates/Application/File\ Templates/
+$ cd /Library/Developer/Xcode/Templates/Application/File\ Templates/
+$ mkdir MyTemplate
+$ cd MyTemplate
+$ git clone https://github.com/ojimac/My-Xcode-Templates.git
 ```
