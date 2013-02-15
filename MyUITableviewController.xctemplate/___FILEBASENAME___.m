@@ -34,6 +34,10 @@
     [super didReceiveMemoryWarning];
 }
 
+- (void)viewDidUnload {
+	[super viewDidUnload];
+}
+
 #pragma mark -
 #pragma mark - Table view data source
 
